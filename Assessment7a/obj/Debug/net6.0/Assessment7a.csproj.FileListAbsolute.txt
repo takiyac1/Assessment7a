@@ -1,0 +1,8 @@
+C:\Users\Takiya\source\repos\Assessment7a\Assessment7a\obj\Debug\net6.0\Assessment7a.csproj.AssemblyReference.cache
+C:\Users\Takiya\source\repos\Assessment7a\Assessment7a\obj\Debug\net6.0\Assessment7a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Takiya\source\repos\Assessment7a\Assessment7a\obj\Debug\net6.0\Assessment7a.AssemblyInfoInputs.cache
+C:\Users\Takiya\source\repos\Assessment7a\Assessment7a\obj\Debug\net6.0\Assessment7a.AssemblyInfo.cs
+C:\Users\Takiya\source\repos\Assessment7a\Assessment7a\obj\Debug\net6.0\Assessment7a.csproj.CoreCompileInputs.cache
+C:\Users\Takiya\source\repos\Assessment7a\Assessment7a\obj\Debug\net6.0\Assessment7a.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Takiya\source\repos\Assessment7a\Assessment7a\obj\Debug\net6.0\Assessment7a.RazorAssemblyInfo.cache
+C:\Users\Takiya\source\repos\Assessment7a\Assessment7a\obj\Debug\net6.0\Assessment7a.RazorAssemblyInfo.cs
